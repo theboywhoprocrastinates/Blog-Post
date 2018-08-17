@@ -1,3 +1,5 @@
+# Maximum Tax Savings Calculator
+
 The purpose of this calculator is to compute the maximum tax savings for Parent Relief shared between 2 claimants.
 
 Maxiumum tax savings is defined as the difference between total tax payable before applying Parent Relief and the total tax payable after applying Parent Relief.
